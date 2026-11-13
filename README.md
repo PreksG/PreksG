@@ -26,6 +26,10 @@ All case studies are anonymised; no company data is published.
 
 Financial analyst and payment analyst (2014–2022) → Lead, Financial Planning & Reporting (2022–2024) → Senior Data Analytics Engineer at Leadway Assurance (2025–present).
 
+### Credentials
+
+B.Sc · MBA · FMVA® · CPMP
+
 ### Toolkit
 
 **Used in production:** SQL · BigQuery · Python · PySpark · Microsoft Fabric · Databricks · Delta Lake · Azure Data Factory · Power BI · DAX · Power Query · Excel · Prophix
@@ -34,4 +38,4 @@ Financial analyst and payment analyst (2014–2022) → Lead, Financial Planning
 
 ### Contact
 
-[Portfolio website](https://preksg.github.io) · LinkedIn: *to be added*
+[Portfolio website](https://preksg.github.io) · [LinkedIn](https://www.linkedin.com/in/prekeme-pre-gee-b-sc-fmva%C2%AE-cpmp-mba-26150796/) · [prekeme01@gmail.com](mailto:prekeme01@gmail.com)
