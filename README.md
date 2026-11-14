@@ -28,7 +28,10 @@ Financial analyst and payment analyst (2014–2022) → Lead, Financial Planning
 
 ### Credentials
 
-B.Sc · MBA · FMVA® · CPMP
+- **FMVA®** Financial Modeling & Valuation Analyst, Corporate Finance Institute (2022)
+- **Certified Performance Management Professional** (2024)
+- **Azure Data Engineering** (2025) · **Data Science**, TS Academy (2026)
+- **MBA**, Ajayi Crowther University · **B.Sc Accounting**, National Open University of Nigeria
 
 ### Toolkit
 
@@ -38,4 +41,4 @@ B.Sc · MBA · FMVA® · CPMP
 
 ### Contact
 
-[Portfolio website](https://preksg.github.io) · [LinkedIn](https://www.linkedin.com/in/prekeme-pre-gee-b-sc-fmva%C2%AE-cpmp-mba-26150796/) · [prekeme01@gmail.com](mailto:prekeme01@gmail.com)
+[Portfolio website](https://preksg.github.io) · [CV (PDF)](https://preksg.github.io/assets/Prekeme-Paul-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/prekeme-pre-gee-b-sc-fmva%C2%AE-cpmp-mba-26150796/) · [prekeme01@gmail.com](mailto:prekeme01@gmail.com)
